@@ -13,7 +13,7 @@ Developed to streamline the integration of business environments and public poli
 
 ## Technical Stack
 * **Language:** SQL (T-SQL / SQL Server) 
-* **Concepts:** ETL Logic, Business Rule Automation, Data Governance, Regulatory Compliance].
+* **Concepts:** ETL Logic, Business Rule Automation, Data Governance, Regulatory Compliance.
 
 ## System Logic (Weight Matrix)
 The engine processes inputs like activity codes, total area, and zoning rules to assign a risk weight:
